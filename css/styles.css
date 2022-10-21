@@ -282,8 +282,6 @@ h1 {
 .list_ul {
   display: flex;
   list-style: none;
-  margin-top: 94px;
-  margin-bottom: 94px;
 }
 
 .team {
@@ -358,5 +356,5 @@ h1 {
   width: 100%;
   margin: 0;
   padding-top: 94px;
-  padding-bottom: 94px;
+  padding-bottom: 0;
 }
