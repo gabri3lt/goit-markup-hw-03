@@ -281,7 +281,6 @@ h1 {
 
 .list_ul {
   display: flex;
-  flex-wrap: wrap;
   list-style: none;
   margin-top: 94px;
   margin-bottom: 94px;
